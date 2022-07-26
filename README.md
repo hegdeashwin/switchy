@@ -7,7 +7,7 @@ All you need to do is to let switchy know about the wifis you are interested in
 and switch does the hardwork to switch over to a secondary wifi if the primary
 fails.
 
-# Usage
+## Usage
 
 Open your terminal and type the following
 
@@ -21,6 +21,6 @@ chmod +x ./switchy.sh
 ./switchy.sh
 ```
 
-# How to Contribute?
+## How to Contribute?
 
 You are welcome to open Pull Requests to this repository with a verbose description.
